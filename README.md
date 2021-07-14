@@ -17,7 +17,7 @@ We assume that there is always at least one tab open in the browser.
 | BACK | Goes to the previous tab. If there is no such, nothing happens.|
 | FORWARD | Goes to the next tab. If there is no such, nothing happens.|
 | REMOVE | Removes the previous tab. The next tab becomes the current one. If the current tab is the last one, new one is opened with address "about:blank".|
-| PRINT | Prints all tabs. Between two tab there is ">"|
+| PRINT | Prints all tabs. Between two tab there is a ">"|
 
 
 
