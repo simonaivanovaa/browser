@@ -5,3 +5,6 @@ We assume that there is always at least one tab open in the browser. If the user
 When the browser is started, before the user can enter commands, in this case a tab is created, again with the address "about: blank". In both cases, this tab becomes current.
 If the user opens a new tab, he must add it immediately after the current one and in your queue to become current.
 If he closes a tab, it is currently the one immediately after it, and if there is no tab, it is the one before it. If this was the last tab, the rule described above in the text applies.
+---------    
+|        |
+----------
